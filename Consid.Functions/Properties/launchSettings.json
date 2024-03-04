@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Consid.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7179",
+      "launchBrowser": false
+    }
+  }
+}
